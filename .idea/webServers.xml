@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="683c1015-c4db-4f50-8ba2-5337fcf08320" name="org.example" url="http://localhost8080/">
+        <fileTransfer mountedRoot="C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\jbr\bin\src\main\java\org.example" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
